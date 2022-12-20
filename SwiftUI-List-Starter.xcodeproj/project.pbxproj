@@ -281,6 +281,7 @@
 				DEVELOPMENT_TEAM = 3C54XP859Q;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "SwiftUI-List-Starter/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = CodeWithEraser;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -305,6 +306,7 @@
 				DEVELOPMENT_TEAM = 3C54XP859Q;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "SwiftUI-List-Starter/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = CodeWithEraser;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

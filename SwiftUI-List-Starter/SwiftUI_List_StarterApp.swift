@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SwiftUI_List_StarterApp: App {
+struct CodeWithEraser: App {
     var body: some Scene {
         WindowGroup {
             VideoListView()
