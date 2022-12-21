@@ -2,7 +2,7 @@
 //  VideoDetailView.swift
 //  SwiftUI-List-Starter
 //
-//  Created by 易瑞森 on 12/20/22.
+//  Created by Eraser on 12/20/22.
 //
 
 import SwiftUI
